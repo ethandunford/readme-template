@@ -30,7 +30,7 @@ Required environment variables:
 
 [TODO]
 
-## Build
+## Building
 
 [TODO]
 
