@@ -42,6 +42,10 @@ Required environment variables:
 
 [TODO]
 
+## License
+
+[TODO] 
+
 # Version
 
 1.0.0
